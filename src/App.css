@@ -95,6 +95,7 @@ section{
 .intern ul li{
     margin-bottom: 8px;
     font-size: 18px;
+    list-style: inside;
 }
 
 footer{
